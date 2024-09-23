@@ -1,0 +1,50 @@
+{'Sentence': 'Mouse : Left Click > Toolbar : file', 'Timestamp': 1650411473.572919}
+{'Sentence': 'Mouse : Move > Toolbar : file', 'Timestamp': 1650411473.9501696}
+{'Sentence': 'Mouse : Move > Toolbar : file', 'Timestamp': 1650411474.296613}
+{'Sentence': 'Mouse : Move > Toolbar : file : Open', 'Timestamp': 1650411474.3146079}
+{'Sentence': 'Mouse : Move > Toolbar : file : Open', 'Timestamp': 1650411474.349875}
+{'Sentence': 'Mouse : Move > Toolbar : file : Close ProgramName', 'Timestamp': 1650411474.349875}
+{'Sentence': 'Mouse : Move > Toolbar : file : Close ProgramName', 'Timestamp': 1650411474.3914514}
+{'Sentence': 'Mouse : Move > Toolbar : file : CloseOthers', 'Timestamp': 1650411474.3914514}
+{'Sentence': 'Mouse : Move > Toolbar : file : CloseOthers', 'Timestamp': 1650411474.4308963}
+{'Sentence': 'Mouse : Move > Toolbar : file : CloseAll', 'Timestamp': 1650411474.4308963}
+{'Sentence': 'Mouse : Move > Toolbar : file : CloseAll', 'Timestamp': 1650411474.4637284}
+{'Sentence': 'Mouse : Move > Toolbar : file : Save ProgramName', 'Timestamp': 1650411474.471612}
+{'Sentence': 'Mouse : Move > Toolbar : file : Save ProgramName', 'Timestamp': 1650411474.5145369}
+{'Sentence': 'Mouse : Move > Toolbar : file : Save ProgramName As', 'Timestamp': 1650411474.5145369}
+{'Sentence': 'Mouse : Move > Toolbar : file : Save ProgramName As', 'Timestamp': 1650411474.5475967}
+{'Sentence': 'Mouse : Move > Toolbar : file : SaveAll', 'Timestamp': 1650411474.5475967}
+{'Sentence': 'Mouse : Move > Toolbar : file : SaveAll', 'Timestamp': 1650411474.5818343}
+{'Sentence': 'Mouse : Move > Toolbar : file : ImportFile', 'Timestamp': 1650411474.5900087}
+{'Sentence': 'Mouse : Move > Toolbar : file : ImportFile', 'Timestamp': 1650411474.6270015}
+{'Sentence': 'Mouse : Move > Toolbar : file : BatchImport', 'Timestamp': 1650411474.6270015}
+{'Sentence': 'Mouse : Move > Toolbar : file : BatchImport', 'Timestamp': 1650411474.6477885}
+{'Sentence': 'Mouse : Move > Toolbar : file : OpenFileSystem', 'Timestamp': 1650411474.6477885}
+{'Sentence': 'Mouse : Move > Toolbar : file : OpenFileSystem', 'Timestamp': 1650411474.676287}
+{'Sentence': 'Mouse : Move > Toolbar : file : AddToProgram', 'Timestamp': 1650411474.676287}
+{'Sentence': 'Mouse : Move > Toolbar : file : AddToProgram', 'Timestamp': 1650411474.7062888}
+{'Sentence': 'Mouse : Move > Toolbar : file : ExportProgram', 'Timestamp': 1650411474.725509}
+{'Sentence': 'Mouse : Move > Toolbar : file : ExportProgram', 'Timestamp': 1650411474.8494747}
+{'Sentence': 'Mouse : Move > Toolbar : file : LoadPDBFile', 'Timestamp': 1650411474.8659236}
+{'Sentence': 'Mouse : Move > Toolbar : file : LoadPDBFile', 'Timestamp': 1650411474.9170647}
+{'Sentence': 'Mouse : Move > Toolbar : file : DownloadPDBFile', 'Timestamp': 1650411474.9170647}
+{'Sentence': 'Mouse : Move > Toolbar : file : DownloadPDBFile', 'Timestamp': 1650411474.9627972}
+{'Sentence': 'Mouse : Move > Toolbar : file : ParseCSource', 'Timestamp': 1650411474.9799695}
+{'Sentence': 'Mouse : Move > Toolbar : file : ParseCSource', 'Timestamp': 1650411475.0470376}
+{'Sentence': 'Mouse : Move > Toolbar : file : Print', 'Timestamp': 1650411475.0737696}
+{'Sentence': 'Mouse : Move > Toolbar : file : Print', 'Timestamp': 1650411475.1426177}
+{'Sentence': 'Mouse : Move > Toolbar : file : PageSetup', 'Timestamp': 1650411475.1426177}
+{'Sentence': 'Mouse : Move > Toolbar : file : PageSetup', 'Timestamp': 1650411475.211264}
+{'Sentence': 'Mouse : Move > Toolbar : file : Configure', 'Timestamp': 1650411475.2281473}
+{'Sentence': 'Mouse : Move > Toolbar : file : Configure', 'Timestamp': 1650411475.3131282}
+{'Sentence': 'Mouse : Move > Toolbar : file : SaveTool', 'Timestamp': 1650411475.3398464}
+{'Sentence': 'Mouse : Move > Toolbar : file : SaveTool', 'Timestamp': 1650411475.4157758}
+{'Sentence': 'Mouse : Move > Toolbar : file : SaveToolAs', 'Timestamp': 1650411475.4157758}
+{'Sentence': 'Mouse : Move > Toolbar : file : SaveToolAs', 'Timestamp': 1650411475.7074888}
+{'Sentence': 'Mouse : Move > Toolbar : file : Export', 'Timestamp': 1650411475.7074888}
+{'Sentence': 'Mouse : Move > Toolbar : file : Export', 'Timestamp': 1650411476.5616748}
+{'Sentence': 'Mouse : Move > DataTypeManager', 'Timestamp': 1650411476.5616748}
+{'Sentence': 'Mouse : Move > DataTypeManager', 'Timestamp': 1650411476.579373}
+{'Sentence': 'Mouse : Move > Toolbar : file : Export : ExportTool', 'Timestamp': 1650411476.579373}
+{'Sentence': 'Mouse : Left Click > Toolbar : file : Export : ExportTool', 'Timestamp': 1650411477.3482604}
+{'Sentence': 'Mouse : Move > Toolbar : file : Export : ExportTool', 'Timestamp': 1650411477.3482604}

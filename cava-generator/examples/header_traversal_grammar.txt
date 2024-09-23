@@ -1,0 +1,24 @@
+{'Sentence': 'Mouse : Left Click > Toolbar : file', 'Timestamp': 1650409236.263035}
+{'Sentence': 'Mouse : Move > Toolbar : file', 'Timestamp': 1650409237.28417}
+{'Sentence': 'Mouse : Move > Toolbar : file', 'Timestamp': 1650409237.715898}
+{'Sentence': 'Mouse : Move > Toolbar : edit', 'Timestamp': 1650409237.715898}
+{'Sentence': 'Mouse : Move > Toolbar : edit', 'Timestamp': 1650409238.5060833}
+{'Sentence': 'Mouse : Move > Toolbar : analysis', 'Timestamp': 1650409238.5060833}
+{'Sentence': 'Mouse : Move > Toolbar : analysis', 'Timestamp': 1650409239.7155366}
+{'Sentence': 'Mouse : Move > Toolbar : graph', 'Timestamp': 1650409239.7155366}
+{'Sentence': 'Mouse : Move > Toolbar : graph', 'Timestamp': 1650409240.9905925}
+{'Sentence': 'Mouse : Move > Toolbar : graph : BlockFlow', 'Timestamp': 1650409241.0287187}
+{'Sentence': 'Mouse : Move > Toolbar : graph : BlockFlow', 'Timestamp': 1650409241.1471138}
+{'Sentence': 'Mouse : Move > Toolbar : graph : CodeFlow', 'Timestamp': 1650409241.1471138}
+{'Sentence': 'Mouse : Move > Toolbar : graph : CodeFlow', 'Timestamp': 1650409241.2227993}
+{'Sentence': 'Mouse : Move > Toolbar : graph : Calls', 'Timestamp': 1650409241.2227993}
+{'Sentence': 'Mouse : Move > Toolbar : graph : Calls', 'Timestamp': 1650409241.2946684}
+{'Sentence': 'Mouse : Move > Toolbar : graph : CallsUsingModel', 'Timestamp': 1650409241.2946684}
+{'Sentence': 'Mouse : Move > Toolbar : graph : CallsUsingModel', 'Timestamp': 1650409242.4901335}
+{'Sentence': 'Mouse : Move > ProgramTrees', 'Timestamp': 1650409242.4901335}
+{'Sentence': 'Mouse : Move > ProgramTrees', 'Timestamp': 1650409242.5234218}
+{'Sentence': 'Mouse : Move > Toolbar : graph : CallsUsingModel : IsolatedEntry', 'Timestamp': 1650409242.5234218}
+{'Sentence': 'Mouse : Move > Toolbar : graph : CallsUsingModel : IsolatedEntry', 'Timestamp': 1650409243.5906565}
+{'Sentence': 'Mouse : Move > Toolbar : graph : CallsUsingModel : MultipleEntry', 'Timestamp': 1650409243.5906565}
+{'Sentence': 'Mouse : Move > Toolbar : graph : CallsUsingModel : MultipleEntry', 'Timestamp': 1650409243.598718}
+{'Sentence': 'Mouse : Move > DisplayListing', 'Timestamp': 1650409243.598718}

@@ -1,0 +1,16 @@
+{'Sentence': 'Mouse : Left Click > ProgramTrees', 'Timestamp': 1650515692.3672938}
+{'Sentence': 'Mouse : Move > ProgramTrees', 'Timestamp': 1650515694.9441676}
+{'Sentence': 'Mouse : Move > SymbolTree', 'Timestamp': 1650515694.983757}
+{'Sentence': 'Mouse : Left Click > SymbolTree', 'Timestamp': 1650515695.436005}
+{'Sentence': 'Mouse : Move > SymbolTree', 'Timestamp': 1650515696.2489119}
+{'Sentence': 'Mouse : Move > DataTypeManager', 'Timestamp': 1650515696.3157573}
+{'Sentence': 'Mouse : Left Click > DataTypeManager', 'Timestamp': 1650515696.7806616}
+{'Sentence': 'Mouse : Move > DataTypeManager', 'Timestamp': 1650515697.6588035}
+{'Sentence': 'Mouse : Move > SymbolTree', 'Timestamp': 1650515697.7033932}
+{'Sentence': 'Mouse : Right Click > SymbolTree', 'Timestamp': 1650515698.2266712}
+{'Sentence': 'Mouse : Move > SymbolTree', 'Timestamp': 1650515699.2747095}
+{'Sentence': 'Mouse : Move > DataTypeManager', 'Timestamp': 1650515699.2747095}
+{'Sentence': 'Mouse : Move > DataTypeManager', 'Timestamp': 1650515699.2780159}
+{'Sentence': 'Mouse : Move > DisplayListing', 'Timestamp': 1650515699.2780159}
+{'Sentence': 'Mouse : Move > DisplayListing', 'Timestamp': 1650515699.2870586}
+{'Sentence': 'Mouse : Move > TaskInstructions', 'Timestamp': 1650515699.2870586}
